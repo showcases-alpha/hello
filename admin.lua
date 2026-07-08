@@ -3,7 +3,7 @@ local RunService = game:GetService("RunService")
 local LocalPlayer = Players.LocalPlayer
 
 local admins = {
-	Teo2Li4 = true,
+	ACC_T4RG3T3R = true,
 	Teo2Li5 = true,
 	Firekor1 = true
 }
